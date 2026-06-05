@@ -9,15 +9,9 @@
     "lint": "next lint",
     "db:push": "drizzle-kit push",
     "db:seed": "tsx src/database/seed.ts"
-
-
-
-
-
-
   },
   "dependencies": {
-    "@neondatabase/serverless": "^0.9.0",
+    "@neondatabase/serverless": "^1.1.0",
     "@radix-ui/react-select": "^2.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
